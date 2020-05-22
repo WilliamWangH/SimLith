@@ -11,4 +11,3 @@ The features are:
 4. Automatically generate the lithological legend list based on the drillhole/section input
 5. The drawn lithological column (is grouped and) can be copied/pasted to other MS Office applications, and can be changed if needed.
 
-<a herf = https://3.bp.blogspot.com/-tnZPPgdmKd8/WabrJZHrLeI/AAAAAAAAAlQ/sKz8IVzRPuMvxwEiVR5Wb0Jox4RmdT1awCLcBGAs/s1600/SimLith%2BSample.png></a>
